@@ -6,6 +6,8 @@
 
 *And for web pages’ developer experts it provide them with tools they can make a lot of things by them and felicitate their work*
 
+`CONTENT OF THE LAST 15 DAYS`
+
 **day**     | **content**
 ---------|---------
 1        |*Learning Markdown*
