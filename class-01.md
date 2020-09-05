@@ -198,8 +198,8 @@ Any thing needs to deals with clicks and taking actions of certain events we do 
 
 **LINKING TO A JAVASCRIPT FILE FROM AN HTML PAGE**
 
-1.	*use the HTML <script> element to tell the browser it is coming across a script. Its sre attribute tells people where the JavaScript file is stored.*
-2.	*Use the HTML <script> element inside the body and and we write th following commad* 	
+1.	*use the HTML `<script>` element to tell the browser it is coming across a script.Its sre attribute tells people where the JavaScript file is stored.*
+2.	*Use the HTML `<script>` element inside the body and and we write th following commad* 	
 3.	*Comment : use this to write a comment // (we use  comments to explain what your code does. They help make your code easier to read and understand. This can help you and others who read your code)*
 4.	*MULTI-LINE COMMENTS : To write a comment that stretches over more than one line, you use a multi-line comment, starting with the `/* characters and ending with the */` characters.*
 5.	*Variables :a place that we store data in it for temporary time in order to use it, and it can easily changed when the script run ; that the reason of name variable*
