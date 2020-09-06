@@ -1,10 +1,11 @@
 # code102-reading-notes
 
-**GitHub pages:** *online website that help us to build web pages in easy manner for those who are zero programming knowledge by providing them with a default pre-prepared web pages and help you to publish your web page using jeklle theme to turn the markdown programming language to html language to create web page.*
+**GitHub pages:** *online website that help us to build web pages in easy manner for those who are zero programming knowledge by providing them with a default pre-prepared web pages and help you to publish your web page using jeklle theme to turn the markdown programming language to html language to create web page.And for web pages’ developer experts it provide them with tools they can make a lot of things by them and felicitate their work*
 
-*Mark down is not WYSIWYG language (what you see is what you get)*
+**other difintion** _is that cloud host service or website that give a very powerfull coding tools where i can save my work on and publish it online._
 
-*And for web pages’ developer experts it provide them with tools they can make a lot of things by them and felicitate their work*
+**Mark down is not `WYSIWYG language (what you see is what you get)`**
+
 
 `CONTENT OF THE LAST 15 DAYS`
 
