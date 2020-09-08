@@ -7,21 +7,26 @@
 + *__un ordered-lists__ are lists that begin with a bullet point (rather than characters that indicate order).`<ul>`*
 
 + *__Definition lists :__ are made up of a set of terms along with the definitions for each of those terms.* 
-```
-<dl>
+
+```<dl>
      <dt> for terms</dt>
       <dd> for definition of terms</dd>
 </dl>
 ```
+
  **nested Lists:** *to but list inside list* 
 
+
 # css for boxes
+
 
 **All boxes have dimensions : height and width**
 
 1.	`<height>` *any parameter could take `(px/ems/%)`*
 2.	`<width>` *any parameter could take `(px/ems/%)`*
+
 *See the % it’s ab percent of the box contain the box we work on it.*
+
 3.	**Property min height & max height :** *it limit the photo size when the screen is narrow or wide to prevent it form over growing or shrinking.*
 4.	**Property overflow:** *help the browser when the text inside the box is larger than the box , the parameters are : scroll/hidden (hide the extra content)*
 * .Hiding the overflow on such boxes helps prevent items overlapping on the page.
