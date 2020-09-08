@@ -8,11 +8,11 @@
 
 + *__Definition lists :__ are made up of a set of terms along with the definitions for each of those terms.* 
 
-```<dl>
-     <dt> for terms</dt>
-      <dd> for definition of terms</dd>
-</dl>
-```
+`<dl>`
+     `<dt> for terms</dt>`
+      `<dd> for definition of terms</dd>`
+`</dl>`
+
 
  **nested Lists:** *to but list inside list* 
 
@@ -57,8 +57,8 @@
 **Switch statement**
 
 *A conditional statement that contain a switch value to run and also it has a default value to run if there’s no match from the cases which are the probabilities plus the break to stop running if the match found*
-```
-Var name=xxx;
+
+```Var name=xxx;
 Var msg ;
 Switch (name) {
 Case 1: msg=’hello’;
@@ -69,6 +69,7 @@ Default:
 Msg= ‘halla’;
 Break;}
 ```
+
 **type coercion:** _converting data type in javacripts and because the changing they say it’s weak typing language SO THE CHANGINING MAY LEAD TO A BUG IN YOUR CODES ._
 
 ***due to type coercion every type of data in js. Could be false/true.***
