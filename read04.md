@@ -8,7 +8,7 @@ _and clickable text that text between the opening and closing `<a>`tag  **(link 
 
 1.	_`<a>` link to other sites and the href is the full wed address for that site (absolute url )_
 
-***Url : uniform resource locator same of the web address ***
+***Url : uniform resource locator same of the web address***
 
 2.	_`<a>` link to other pages found on the website  you just need to put the path of file.html with out the web address( relative url)_
 
