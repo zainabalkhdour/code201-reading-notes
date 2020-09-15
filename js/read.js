@@ -37,8 +37,20 @@ h2EL.textContent = this.nameOfClass;
 
 
 
+//////////////////////////////////////////////////////
 
-
+function person(){
+    this.name ="mahmoud";
+    // this.sayhi=function(){
+    //     console.log('hi,this.name')
+    }
+    person.prototype.sayhi=function(){
+        console.log('hi,this.name')
+}
+var person= new person('majkl')
+    console.log(person)
+var person1=new person('kmnmhj')
+console.log(person) 
 
 
 
